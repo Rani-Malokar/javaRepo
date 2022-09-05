@@ -16,7 +16,7 @@ public class TestJava {
    public void test2()
    {
       System.out.println("Running Second Test");
-      Assert.assertEquals("Sneha Malokar","Sneha");
+      Assert.assertEquals("Sneha Malokar","Sneha Malokar");
    }
 
 
