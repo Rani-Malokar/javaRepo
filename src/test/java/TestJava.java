@@ -18,6 +18,13 @@ public class TestJava {
       System.out.println("Running Second Test");
       Assert.assertEquals("Sneha Malokar","Sneha Malokar");
    }
+    @Test
+   public void test3()
+   {
+      System.out.println("Running Second Test");
+      Assert.assertEquals("Malokar","Malokar");
+   }
+
 
 
 }
